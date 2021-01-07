@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Helvetica Now Display Ligth";
+    src: url("HelveticaNowDisplay-Light.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Helverica Now Text Ligth";
+    src: url("HelveticaNowText-Light.otf");
+    font-style: normal;
+    font-weight: normal;
+}
